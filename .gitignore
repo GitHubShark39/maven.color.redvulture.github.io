@@ -1,0 +1,9 @@
+target
+*.iml
+.idea
+
+### Vagrant ###
+.vagrant/
+
+### Maven ###
+.mvn/timing.properties

@@ -1,0 +1,8 @@
+import org.fusesource.jansi.Ansi
+
+class FailMyColor {
+
+    Ansi onSuccess() {
+        Ansi.ansi().bold()
+    }
+}
